@@ -4,8 +4,6 @@ Depending on what options are selected password will be different every time.
 
 This app is simple to use. Just run the main.py file and the gui will launch. 
 
-Note: The program is still work in progress so you might see numbers and strings being printed on console. It is used for debugging purpose and can be ignored
-
 # Generate panel and Settings panel
 When you run main.py file, it will show you Generate panel where you can generate password, save password, clear generated password
 and switch to settings panel
@@ -31,7 +29,11 @@ Note: If the program throws an error than it won't switch to Generate Panel unti
 Reset button will set every option in settings panel to default. (all boxes unchecked and length size to 10)
 
 
+# Disclaimers and Note
 Disclaimer: This app best works on windows. There is no test done on other operating system.
+This program is still work in progress so there might be bugs, and issues.
+
+Note: when running the app, it prints strings, and numbers on console. It is meant for debugging purpose and can be ignored while using it.
 
 
 
