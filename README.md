@@ -1,8 +1,6 @@
 # Python-Password-Generator
 Password Generator is a Python GUI based app. It allows the user to generate passwords with few options. 
-Depending on what options are selected password will be different every time.
-
-This app is simple to use. Just run the main.py file and the gui will launch. 
+Depending on what options are selected password will be different every time. This app is simple to use. Just run the main.py file and the gui will launch. 
 
 # Generate panel and Settings panel
 When you run main.py file, it will show you Generate panel where you can generate password, save password, clear generated password
@@ -34,6 +32,7 @@ Disclaimer: This app best works on windows. There is no test done on other opera
 This program is still work in progress so there might be bugs, and issues.
 
 Note: when running the app, it prints strings, and numbers on console. It is meant for debugging purpose and can be ignored while using it.
+
 
 
 
