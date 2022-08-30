@@ -2,12 +2,13 @@
 Password Generator is a Python GUI based app. It allows the user to generate passwords with few options. 
 Depending on what options are selected password will be different every time. This app is simple to use. Just run the main.py file and the gui will launch. 
 
+Requirement: Python3+ and tkinter library required. You can use pip install "python -m pip install tk" to get tkinter.
+
 # Generate panel and Settings panel
 When you run main.py file, it will show you Generate panel where you can generate password, save password, clear generated password
 and switch to settings panel
 
 When switching to settings panel, you can choose if you want to include or exclude symbols, numbers, and capital letter. You can also choose the length of the password.
-Note: If you put any crazy number like -1000 or 200 then the program will tell you the max length and won't let you exit the Settings panel.
 
 
 # What different buttons do? - Generate panel
